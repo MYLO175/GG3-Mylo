@@ -1,0 +1,7 @@
+numpy
+scipy
+numba
+requests
+matplotlib
+ipykernel
+jupyter

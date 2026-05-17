@@ -1,1 +1,5 @@
 .ipynb_checkpoints
+.venv/
+.matplotlib/
+__pycache__/
+.DS_Store
